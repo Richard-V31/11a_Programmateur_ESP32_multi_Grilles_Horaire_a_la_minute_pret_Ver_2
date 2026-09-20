@@ -1,6 +1,12 @@
-# Programmateur horaire ESP32 – Multi-relais – Interface Web – OTA
+<h1 align="center"> Programmateur horaire ESP32  Version 2.0  </h1> 
 
-## 1. Présentation
+<h2 align="center">N relais, interface web, écran OLED, OTA et Programmation à la minute prêt</h2>
+
+![Platform](https://img.shields.io/badge/Platform-ESP32-green)
+![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Release](https://img.shields.io/badge/Release-v2.0.OTA-orange)
+
 
 Ce projet transforme un **ESP32** en programmateur horaire connecté capable de piloter plusieurs relais indépendants.
 
